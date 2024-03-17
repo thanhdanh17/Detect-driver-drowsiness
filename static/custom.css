@@ -1,0 +1,17 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-image: url('/Users/TrongNghia/Desktop/CPV301/Premium Vector | Abstract background with technology circuit board.jpg');
+    /* Thay đổi đường dẫn đến hình ảnh nền của bạn tại đây */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* Đảm bảo hình nền trải dài trên toàn bộ chiều cao của màn hình */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Thêm các quy tắc CSS khác tùy thuộc vào thiết kế của bạn */
